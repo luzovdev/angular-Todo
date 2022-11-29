@@ -1,0 +1,16 @@
+.row{
+    display: flex;
+    margin: 0.5em;
+  
+}
+/* .row div {
+   
+} */
+.done{
+    background-color: rgb(32, 158, 0);
+    color: #fff;
+}
+.current{
+    background-color: rgb(172, 199, 17);
+    color: #fff;
+}

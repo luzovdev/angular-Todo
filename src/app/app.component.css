@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    color: #000;
+}
+
+.container{
+    width: 80vw;
+    margin: 0 auto;
+}
